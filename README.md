@@ -1,4 +1,4 @@
-# Ultralight-face-detect-fastapi
+# Ultralight-genric-face-detector-1MB-fastapi
 deploying of ultralight general face detection model to an API using fastapi
 
 The main script for the api deployment is "main.py" . Simply start the API server with "uvicorn main:app --reload" and test the model in the api server
