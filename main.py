@@ -69,3 +69,10 @@ def post_data_v1(
         })
 
     return output
+
+@app.get('/meta')
+def get_meta(): 
+    return {
+        "arguments": [
+
+        ]}
